@@ -13,7 +13,9 @@ https://code.org/
 
 Nome da Turma ==> 1C - Programação de Algoritmos
 
-Código da Turma => HYVVXC
+Nome da Turma ==> 1F - Programação de Algoritmos
+
+ - OBS: OS CÓDIGOS DE ACESSO ÀS TURMAS CRIADAS SERÃO INFORMADOS EM SALA DE AULA
 
 # - SCRATCH - Programação em Blocos
 
